@@ -5,6 +5,10 @@
 backup/sensitive_files/
 .serena/cache/
 
+# Source repository clones (external repos)
+source_repos/
+serena/
+
 # Python cache
 __pycache__/
 *.pyc

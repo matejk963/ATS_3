@@ -1,8 +1,0 @@
-booster[0]:
-0:[MACD_12_26<0.0499454662] yes=1,no=2,missing=2
-	1:[MACD_12_26<-0.101205207] yes=3,no=4,missing=4
-		3:leaf=0.0742517337
-		4:leaf=-0.0493825823
-	2:[predicted_return<0.999716163] yes=5,no=6,missing=6
-		5:leaf=-0.0760056078
-		6:leaf=0.0531106852
