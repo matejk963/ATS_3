@@ -1,0 +1,72 @@
+Changelog:
+
+** 26.08.2021 pfo **
+- Use shared Product Filter Mixin
+
+** 11.08.2021 pfo **
+- use lazy aggregation for timeseries
+
+** 02.04.2021 pfo **
+- stop trading if OTR is close to violating exchange limit
+- disable selection of 2h trading blocks
+- add additional product filter on duration, not only on product type, since product types became ambiguous
+
+** 25.02.2021 pfo **
+- product filter aggregation rule change:
+ * Change from "min" to "min_nonone".
+- strategy_limit_maximum_purchase_price aggregation rule change:
+ * Change from "min" to "min_nonone".
+- strategy_limit_minimum_sales_price aggregation rule change:
+ * Change from "max" to "max_nonone".
+- Add strategy_id to log entries, for easier lookup in log files
+
+** 19.02.2021 pfo **
+- Maximum orderbook size:
+ * Truncate order sizes according to allowed maximum order book (MOB) size.
+ * Order size is at least 0.1MW, but depending on behaviour can be 5% to 20% of position, and is capped by MOB
+
+
+** 03.02.2021 pfo **
+- Less logs:
+ * Remove and reduce logs where possible to avoid too large disk space usage too to log files
+
+
+** 26.01.2021 pfo **
+- Order Placement:
+ * Reserve as much as possible of the order placement for the longest product possible, for smallest common quarter pos.
+ * do not place an order for a parallel product if the position can be traded by a longer or equally long product
+ * tradeback has no behaviour limitation for placement, but only maximum order book setting limitation
+ * product filter selection is simplified and updated to have 4h product selection possible in any area
+ * product filter selection is now independent from delivery area
+ * added more logs and improved variable names for clarity
+
+
+** 06.01.2021 pfo **
+(Based on Flex V1)
+
+Patches Needed To Fix Before Release:
+- Timeseries aggregation.
+ * Patched because strategy.py cannot aggregate 1h to 2h and 4h durations. Has not been implemented yet due to drop in performance.
+ * on_strategy_update as try-except because of this aggregation which can be removed
+
+Flex Update Features:
+- Replace Scale Mixing via price averaging with min/max depending on side:
+ * when combining 4 buy quarter hour prices to 1 buy hour price, then take min price
+ * when combining 4 sell quarter hour prices to 1 sell hour price, then take max price
+ * a.s.o.
+- 100% ramps: volume can change 100% of the allowed ramp time series value
+- asymmetric ramps: ramps can be defined for buy and sell side independent from each other
+- day-ahead influence on ramp: ramps consider traded amounts in day ahead market, entered via additional timeseries
+- 30min, 2H, 4H UK products: trading and combining products which are longer than 1H. Correct alignment to midnight
+- Modified product selection:
+ * 0: all products
+ * 0.25: quarter hour
+ * 0.5: half hour
+ * 1: hour
+ * 1.5: hour and half hour
+ * 3.5: 2hour, hour and half hour
+ * a.s.o.
+- Correct order sizing and cap max order size:
+ * according to maximum order book size parameter
+ * according to left-over volume between traded and limit volume (not necessarily equal to difference between traded and target position)
+- price Steps: increase amount of possible price steps to 24 (scale idx: 1 to 25).

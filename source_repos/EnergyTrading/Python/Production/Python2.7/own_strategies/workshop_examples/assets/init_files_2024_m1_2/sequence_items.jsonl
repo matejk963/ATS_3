@@ -1,0 +1,46 @@
+[
+    {
+        "correlation_id": "trayport-init-b9a6c6b6",
+        "data": [
+            {
+                "delivery_end": 1706745600,
+                "delivery_start": 1704067200,
+                "gas": false,
+                "item_id": "241",
+                "item_name": "Jan-24",
+                "order_id": "18",
+                "period_weight": "1",
+                "seq_id": "10000104",
+                "trading_end": 1672531200,
+                "trading_start": 946684800
+            },
+            {
+                "delivery_end": 1709251200,
+                "delivery_start": 1706745600,
+                "gas": false,
+                "item_id": "242",
+                "item_name": "Feb-24",
+                "order_id": "16",
+                "period_weight": "1",
+                "seq_id": "10000104",
+                "trading_end": 1664582400,
+                "trading_start": 1011571200
+            },
+            {
+                "delivery_end": 1709251200,
+                "delivery_start": 1704067200,
+                "gas": false,
+                "item_id": "241_242",
+                "item_name": "Jan-24xFeb-24",
+                "order_id": "155",
+                "period_weight": "1",
+                "seq_id": "10000104",
+                "trading_end": 1672531200,
+                "trading_start": 946684800
+            }
+        ],
+        "exchange": "TRAYPORT",
+        "message_type": "sequence_items",
+        "timestamp": 1661259698.73136
+    }
+]

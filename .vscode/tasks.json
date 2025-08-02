@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Python: Run Current File (ATS_3)",
+            "type": "shell",
+            "command": "/home/krajcovic/miniconda3/envs/ATS_3/bin/python",
+            "args": ["${file}"],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Jupyter: Start with ATS_3 Kernel",
+            "type": "shell", 
+            "command": "/home/krajcovic/miniconda3/envs/ATS_3/bin/jupyter",
+            "args": ["lab", "--kernel=ats_3"],
+            "group": "build"
+        }
+    ]
+}

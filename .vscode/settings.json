@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "/home/krajcovic/miniconda3/envs/ATS_3/bin/python",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        ".pytest_cache/": true
+    }
+}

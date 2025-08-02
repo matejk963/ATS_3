@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "python.defaultInterpreterPath": "/home/krajcovic/miniconda3/envs/ATS_3/bin/python",
+        "python.terminal.activateEnvironment": true,
+        "jupyter.defaultKernel": "ats_3",
+        "files.exclude": {
+            "**/__pycache__": true,
+            "**/*.pyc": true,
+            ".pytest_cache/": true
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-python.python",
+            "ms-toolsai.jupyter"
+        ]
+    }
+}

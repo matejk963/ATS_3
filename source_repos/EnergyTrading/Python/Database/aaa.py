@@ -1,0 +1,380 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from datetime import datetime, time, timedelta
+from SynthSpread.spreadviewer_class import SpreadSingle, SpreadViewerData, norm_coeff
+#from Database.TPData import TPData, TPDataDa, TPDataAssembly
+from Database.TPData import TPData, TPDataDa, TPDataAssembly
+from Database.DB_reader import Database
+from datetime import date, timedelta
+
+from Strategies.MultipleMarketsIntensity_class import MultiTradeIntensity as TI
+
+from Strategies.LeadLagXGB.backtest_class import BacktestLL
+from Strategies.LeadLagXGB.strategy_class import StrategyLL, VolumeClass
+tol=(1e-1)/2
+
+import sys,os
+sys.path.append(r'C:/data/EnergyTrading/Python/Strategies/LeadLagXGB/')
+from support_functions import calculate_MACD, calculate_lead_lag_triggers, calculate_regression_model_price, calc_vol_intensity_index
+
+
+class EMA:
+    def __init__(self, span):
+        self.span = span
+        self.value = 0
+        self.alpha = 2 / (span + 1)
+
+    def push(self, value):
+        self.value = self.alpha * value + (1 - self.alpha) * self.value
+
+
+class TR_class:
+    def __init__(self, tau, tau_ema, burn=10):
+        self.tau = tau
+        self.tau_ema = tau_ema
+        self.reset()
+        self.__burn = burn
+
+    @property
+    def param_keys(self):
+        return ['tau', 'tau_ema']
+
+    def update_params(self, params_dict):
+        if 'tau' in params_dict.keys():
+            self.tau = params_dict['tau']
+        if 'tau_ema' in params_dict.keys():
+            self.tau_ema = params_dict['tau_ema']
+
+    @property
+    def ewma_val(self):
+        return self.ewma.value
+
+    @property
+    def is_burn(self):
+        return self.tot_n < self.burn
+
+    @property
+    def min_tau(self):
+        return self.tau // 3
+
+    @property
+    def old_value(self):
+        return self.__old_value
+
+    @property
+    def bt(self):
+        return self.__bt
+
+    @property
+    def burn(self):
+        return self.__burn
+
+    @property
+    def tot_n(self):
+        return self.__tot_n
+
+    def reset(self):
+        self.phiT = 0
+        self.ewma = EMA(self.tau_ema)
+        self.ewma_T = EMA(self.tau_ema)
+        self.thres = 0
+        self.index = 0
+        self.__bt = 1
+        self.__old_value = np.nan
+        self.__n = 0
+        self.__tot_n = 0
+        self.init = False
+
+    def soft_reset(self):
+        self.phiT = 0
+        self.ewma = EMA(self.tau_ema)
+        self.ewma_T = EMA(self.tau_ema)
+        self.thres = 0
+        self.index += 1
+        self.__bt = 1
+        self.__n = 0
+        self.__tot_n = 0
+        self.init = False
+
+    def initialize(self):
+        self.ewma.value = .5
+        self.ewma_T.value = self.tau
+        self.init = False
+
+    def push(self, value, volume=None):
+        if self.tot_n < 1:
+            self.init = True
+        else:
+            diff_value = value - self.old_value
+            self.__bt = self.signed_tick_vals(diff_value)
+            bt = max(self.__bt, 0)
+            if self.init:
+                self.initialize()
+                self.thres = max(abs(self.ewma.value) * self.ewma_T.value, self.min_tau)
+            if self.is_burn:
+                self.phiT += bt
+                self.__n += 1
+            elif max(self.phiT, self.__n - self.phiT) < self.thres:
+                self.phiT += bt
+                self.__n += 1
+            else:
+                self.ewma.push(self.phiT / self.__n)
+                self.ewma_T.push(self.__n)
+                self.phiT = 0
+                self.thres = max(abs(self.ewma.value) * self.ewma_T.value, self.min_tau)
+                self.index += 1
+                self.__n = 0
+        self.__tot_n += 1
+        self.__old_value = value
+        return self.index
+
+    def signed_tick_vals(self, diff_value):
+        if diff_value > 0:
+            return 1
+        elif diff_value < 0:
+            return -1
+        else:
+            return 0
+
+    def tick_imbalance_single(self, trades):
+        self.soft_reset()
+        index_series = []
+        for trade in trades:
+            value = trade[0]
+            if not value or np.isnan(value):
+                index_series.append((trade[2], self.index))
+            else:
+                index_series.append((trade[2], self.push(value)))
+
+        return index_series
+
+    def tick_imbalance_indices(self, trades):
+        self.reset()
+        index_series = []
+        current_date = None
+        daily_trades = []
+
+        for trade in trades:
+            trade_date = trade[2].date()
+            if current_date is None:
+                current_date = trade_date
+
+            if trade_date != current_date:
+                # Process the previous day's trades
+                index_series.extend(self.tick_imbalance_single(daily_trades))
+                daily_trades = []
+                current_date = trade_date
+
+            daily_trades.append(trade)
+
+        # Process the last day's trades
+        if daily_trades:
+            index_series.extend(self.tick_imbalance_single(daily_trades))
+
+        return index_series
+
+
+def get_nine_am_unix_today_cet():
+    # Define the CET timezone
+    cet = pytz.timezone('CET')
+
+    # Get today's date in the CET timezone
+    today = datetime.now(cet).date()
+
+    # Combine today's date with the time 09:00 AM in CET
+    nine_am_today = cet.localize(datetime.combine(today, time(9, 0)))
+
+    # Convert to Unix timestamp (seconds since epoch)
+    unix_timestamp = int(nine_am_today.timestamp())
+
+    return unix_timestamp
+
+
+def calculate_ema(current_price, previous_ema, span):
+    alpha = 2 / (span + 1)
+    return alpha * current_price + (1 - alpha) * previous_ema
+
+
+def get_trades_for_contract(contract, start_date, end_date):
+    params_dict = {}
+    params_dict['tenor_list'] = ['dec'] if contract == 'euadec1' else [contract[-2]]
+    params_dict['tn1_list'] = [int(contract[-1])]
+    params_dict['mkt_list'] = ['eua'] * len(params_dict['tenor_list']) if contract == 'euadec1' else [contract[
+                                                                                                      0:-2]] * len(
+        params_dict['tenor_list'])
+    params_dict['tn2_list'] = []
+    params_dict['prod'] = 'base'
+    params_dict['venue_list'] = ['eex'] * len(params_dict['mkt_list'])
+    params_dict['start_date'] = start_date
+    params_dict['end_date'] = end_date
+    params_dict['ns'] = 2
+
+    # Fetch trades and best orders for the curve
+    assembler = TPDataAssembly(source='trayport', user='matej')
+    # assembler.set_start_end_time(start=[10,0,0], end=[12,0,0])
+    trades_dict = assembler.get_data(params_dict, target_data='trades')
+    # assembler.set_data_source('database')
+    ba_dict = assembler.get_data(params_dict, target_data='best_orders')
+
+    assert ba_dict.keys() == trades_dict.keys(), "Curve doesn't fit for both trades and best_orders"
+
+    trades = pd.DataFrame()
+    ba = pd.DataFrame()
+    products = []
+    for key in trades_dict.keys():
+        ba_aux = ba_dict[key].copy()
+        trade_aux = trades_dict[key].copy()
+        trade_aux.columns = [a + '_' + key for a in trade_aux.columns]
+        ba_aux.columns = [a + '_' + key for a in ba_aux.columns]
+        if trades.empty:
+            trades = trade_aux.copy()
+        else:
+            trades = pd.concat([trades, trade_aux])
+        if ba.empty:
+            ba = ba_aux.copy()
+        else:
+            ba = pd.concat([ba, ba_aux])
+        products.append(key)
+    trades.sort_index(inplace=True)
+    ba.sort_index(inplace=True)
+    ba.index.name = 'datetime'
+
+    ti_inst = TI(trades, ba, products)
+
+    ti_inst.prepare_data()
+
+    data_raw = ti_inst.data
+    print(data_raw.columns)
+    df_lead = data_raw[data_raw['broker_id_' + contract] == 1441][
+        ['tradeid_' + contract, 'price_' + contract, 'volume_' + contract, 'bidbestprice_' + contract,
+         'askbestprice_' + contract, 'mid_' + contract, 'trade_side_' + contract]].copy()
+
+    df_lead['contract'] = contract
+
+    # data = data_raw[['price_dem1', 'volume_dem1','bidbestprice_dem1',
+    #                    'askbestprice_dem1', 'mid_dem1', 'trade_side_dem1']].copy()
+
+    df_lead.columns = [a.split('_')[0] for a in df_lead.columns]
+    df_lead.columns = ['tradeid', 'trd_price', 'volume', 'bid_price', 'ask_price', 'mid_price', 'trd_side', 'contract']
+
+    return df_lead
+
+
+def fit_model(lead_contract, lag_contract):
+    data_lead_trds = df[df['contract'] == lead_contract]
+    data_lag_trds = df[df['contract'] == lag_contract]
+
+    data_lead_trds['tag'] = 'lead'
+    data_lag_trds['tag'] = 'lag'
+
+    df_trds = pd.concat([data_lead_trds, data_lag_trds]).sort_index()
+
+    df_trds['lead_price'] = df_trds[['trd_price', 'tag']].apply(
+        lambda row: row['trd_price'] if row['tag'] == 'lead' else None, axis=1)
+    df_trds['lead_volume'] = df_trds[['volume', 'tag']].apply(
+        lambda row: row['volume'] if row['tag'] == 'lead' else None, axis=1)
+    df_trds['lead_pv'] = df_trds[['trd_price', 'volume', 'tag']].apply(
+        lambda row: row['trd_price'] * row['volume'] if row['tag'] == 'lead' else None, axis=1)
+
+    df_trds['lag_price'] = df_trds[['trd_price', 'tag']].apply(
+        lambda row: row['trd_price'] if row['tag'] == 'lag' else None, axis=1)
+    df_trds['lag_volume'] = df_trds[['volume', 'tag']].apply(lambda row: row['volume'] if row['tag'] == 'lag' else None,
+                                                             axis=1)
+    df_trds['lag_pv'] = df_trds[['trd_price', 'volume', 'tag']].apply(
+        lambda row: row['trd_price'] * row['volume'] if row['tag'] == 'lag' else None, axis=1)
+
+    agg_dict = {'index': 'first', 'datetime': 'first'}
+    agg_dict.update({k: 'sum' for k in ['lead_volume', 'lead_pv', 'lag_volume', 'lag_pv']})
+
+    df_trds['date'] = df_trds.index.date
+    dates_list = sorted(list(set(df_trds['date'])))
+
+    df_list = []
+    df_list2 = []
+
+    sort_order = [True, False, True]
+
+    for current_day in dates_list:
+        df_trds_1day = df_trds[df_trds['date'] == current_day].reset_index()
+        df_trds_1day['execution_time'] = df_trds_1day['datetime'].astype('int64')  # Already in nanoseconds
+
+        # Preparing tick data
+        ti_cls = TR_class(tau=10, tau_ema=10)
+
+        df_trds_1day = df_trds_1day.sort_values(by=['datetime', 'lag_volume', 'lag_price'],
+                                                ascending=sort_order).reset_index()
+
+        # Create the list of tuples
+        lag_trades = [(row['lag_price'], row['volume'], row['execution_time']) for index, row in
+                      df_trds_1day.iterrows()]
+
+        idx_series = ti_cls.tick_imbalance_single(lag_trades)
+        idx_series = pd.DataFrame(idx_series, columns=['index', 0])
+
+        if 'level_0' in df_trds_1day.columns:
+            del df_trds_1day['level_0']
+
+        # Create returns
+        df_trds_indexed_1day = pd.concat([df_trds_1day, idx_series[0]], axis=1).reset_index()
+        lag_index = df_trds_indexed_1day[df_trds_indexed_1day['tag'] == 'lag'].index.min()
+        lead_before_lag = df_trds_indexed_1day[
+            (df_trds_indexed_1day['tag'] == 'lead') & (df_trds_indexed_1day.index < lag_index)]
+        df_trds_indexed_1day.loc[lead_before_lag.index, 0] = 0
+
+        df_trds_indexed_1day['tick_id'] = str(current_day) + '_' + df_trds_indexed_1day[0].fillna(0).apply(str)
+        # df_trds_indexed_1day['datetime'] = df_trds_indexed_1day['timestamp']
+        # df_trds_indexed_1day = df_trds_indexed_1day.set_index('datetime')
+        df_trds_indexed_1day_grouped = df_trds_indexed_1day.groupby('tick_id').agg(
+            agg_dict).reset_index().set_index('datetime')
+
+        df_trds_indexed_1day_grouped['lead_price'] = df_trds_indexed_1day_grouped['lead_pv'] / \
+                                                     df_trds_indexed_1day_grouped['lead_volume']
+        df_trds_indexed_1day_grouped['lag_price'] = df_trds_indexed_1day_grouped['lag_pv'] / \
+                                                    df_trds_indexed_1day_grouped['lag_volume']
+
+        df_trds_indexed_1day_grouped['lead_log_ret'] = np.log(df_trds_indexed_1day_grouped['lead_price'].ffill()).diff()
+        df_trds_indexed_1day_grouped['lag_log_ret'] = np.log(df_trds_indexed_1day_grouped['lag_price'].ffill()).diff()
+        df_list.append(df_trds_indexed_1day_grouped)
+        df_list2.append(df_trds_indexed_1day)
+
+    df_trds_indexed = pd.concat(df_list).sort_index()
+    df_trds = pd.concat(
+        [df_trds.sort_values(by=['datetime', 'lag_volume', 'lag_price'], ascending=sort_order).reset_index(drop=True),
+         pd.concat(df_list2).sort_values(by=['datetime', 'lag_volume', 'lag_price'], ascending=sort_order).reset_index(
+             drop=True)['tick_id']], axis=1)
+
+    # Model fitting and scoring
+    # Prepare to store predictions
+    df_trds_indexed['lag_log_ret_pred'] = np.nan
+    df_trds_indexed['coef1'] = np.nan
+    df_trds_indexed['coef2'] = np.nan
+    df_trds_indexed['date'] = df_trds_indexed.index.date
+    dates_list = sorted(list(set(df_trds_indexed['date'])))
+
+    training_data = df_trds_indexed
+    # Skip if not enough data
+
+    # Independent variable (lead_log_ret) and dependent variable (lag_log_ret)
+    X_train = training_data['lead_log_ret'].fillna(0)
+    y_train = training_data['lag_log_ret'].fillna(0)
+
+    # Add a constant to the independent variable
+    X_train = sm.add_constant(X_train)
+
+    # Fit the model using statsmodels
+    model = sm.OLS(y_train, X_train).fit()
+
+    return model.params[0], model.params[1], model.pvalues[0], model.pvalues[1], model.rsquared
+
+
+
+lead_contract='dem1'
+lag_contract='dem2'
+start_date='2025-01-01'
+end_date='2025-01-04'
+
+
+
+df_lead=get_trades_for_contract(lead_contract, start_date, end_date)
+df_lag=get_trades_for_contract(lag_contract, start_date, end_date)

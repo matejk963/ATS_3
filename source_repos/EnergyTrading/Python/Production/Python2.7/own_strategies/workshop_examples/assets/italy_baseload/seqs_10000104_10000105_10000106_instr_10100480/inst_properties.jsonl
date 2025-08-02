@@ -1,0 +1,882 @@
+{"timestamp": 1624350715.224, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6817", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350716.211, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6821", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350717.13, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6825", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350717.869, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6829", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350715.723, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6819", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350716.679, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6823", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350717.62, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6827", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350718.178, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6831", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350718.711, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6835", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.531, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1018", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000101"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.838, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1022", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000101"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.242, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1020", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.515, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1024", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.781, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1028", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.158, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1032", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.507, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1036", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.706, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "862", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.886, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "866", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.069, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "870", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.305, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "874", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.695, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "214", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.901, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "218", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.106, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "222", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.311, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "226", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.513, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "231", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.96, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "74", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.239, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "19", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000106"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.506, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "183", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.818, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "187", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.217, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "191", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.563, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "195", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.85, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "199", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.073, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "214", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.281, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "218", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.715, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "222", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.952, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "226", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.162, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "230", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.368, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "19", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000112"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.456, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.483, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.506, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.53, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.548, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.553, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.558, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.564, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.583, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.643, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.982, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350715.488, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6818", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350716.438, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6822", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350717.428, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6826", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350718.044, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6830", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350729.1, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350729.76, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350718.512, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6834", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.462, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1017", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000101"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.76, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1021", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000101"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.162, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1019", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350730.571, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350731.153, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350731.881, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350732.514, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350733.178, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350733.73, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350734.746, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350735.303, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350736.399, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350737.582, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.446, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1023", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.719, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1027", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350738.707, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350739.568, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350740.591, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350741.77, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350742.852, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350743.461, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350744.136, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350744.882, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350745.7, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350746.21, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350747.226, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350747.884, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350748.669, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350749.675, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350751.343, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350753.145, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350755.053, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350757.669, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.567, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.642, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.77, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.163, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.356, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.551, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.776, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.966, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.23, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.837, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.287, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.985, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.448, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.952, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350764.666, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350765.417, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.172, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.574, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.043, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.688, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.091, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.662, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.889, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "74", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.063, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "78", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.25, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "82", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.432, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "86", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.787, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "90", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.957, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.182, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.36, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.505, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.816, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.032, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.208, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.458, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.615, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.77, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.94, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.195, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.324, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.478, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.633, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.775, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.929, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.068, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.24, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.488, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.649, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.821, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.983, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.17, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.343, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.589, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.819, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.946, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.096, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.242, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.372, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350714.933, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6816", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350715.914, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6820", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350716.909, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6824", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350717.757, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6828", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350718.304, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6832", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.217, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6836", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.617, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1019", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000101"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.999, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1017", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.301, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1021", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.589, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1025", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.865, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1029", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.296, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1033", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350718.409, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6833", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.383, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "6837", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000100"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350719.69, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1020", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000101"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.097, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1018", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.576, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1037", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.744, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "863", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.928, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "867", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.124, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "871", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.447, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "211", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.744, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "215", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.953, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "219", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.161, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "223", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.362, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "227", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.368, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1022", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.658, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1026", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.923, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1030", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.363, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1034", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.558, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "71", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.043, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "75", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.307, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "41", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000107"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.597, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "184", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.628, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "860", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.783, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "864", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.973, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "868", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.181, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "872", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.576, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "212", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.894, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "188", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.357, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "192", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.633, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "196", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.897, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "200", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.793, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "216", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.006, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "220", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.21, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "224", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.41, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "228", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.127, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "215", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.336, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "219", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.769, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "223", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.008, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "227", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.66, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "72", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.109, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "76", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.364, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "42", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000107"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.667, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "185", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.211, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "231", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.438, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "17", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000113"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.461, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.488, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.511, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.535, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.578, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.593, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.598, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.612, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.675, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350728.108, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350729.251, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350729.923, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.967, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "189", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.43, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "193", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.711, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "197", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.964, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "201", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350730.701, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350731.308, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.176, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "216", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.472, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "220", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.839, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "224", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.06, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "228", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.26, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "232", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.445, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.467, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.471, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.495, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.516, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.54, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.569, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.587, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.658, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.733, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350728.383, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350732.01, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350732.644, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350733.3, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350734.339, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350729.591, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350730.422, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350734.868, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350735.693, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350730.995, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350731.737, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350736.542, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350737.936, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350738.91, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350739.908, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350732.356, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350733.025, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350740.852, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350741.979, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350733.582, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350734.618, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350735.155, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350736.234, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350737.419, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350738.361, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350739.369, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350740.388, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350741.534, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350742.587, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350743.346, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350744.002, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350744.569, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350745.554, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350746.082, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350747.003, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350747.76, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350748.541, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350749.29, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350750.966, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350752.77, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350754.526, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350757.216, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.19, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.622, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.723, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.116, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.31, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.504, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.721, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.917, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.113, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.739, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.159, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.741, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.336, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.83, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350764.548, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350765.149, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.012, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.462, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.84, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.603, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.952, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.522, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.854, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "73", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.019, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "77", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.204, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "81", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.384, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "85", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.726, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "89", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.908, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.125, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.326, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.467, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.716, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.982, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.171, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.335, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.497, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.656, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.81, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.02, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.226, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.366, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.51, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.665, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.808, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.96, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.105, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.31, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.528, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.679, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.856, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.024, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.218, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.387, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.673, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.851, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350720.993, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1031", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.434, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "1035", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000102"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.671, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "861", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350721.837, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "865", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.982, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.13, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.274, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.399, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.012, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "869", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.234, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "873", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000103"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.638, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "213", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350722.851, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "217", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.058, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "221", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.262, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "225", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.464, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "229", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000104"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350723.813, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "73", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.167, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "77", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000105"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.419, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "43", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000107"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350724.744, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "186", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.097, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "190", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.499, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "194", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350725.791, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "198", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.023, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "203", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000109"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.225, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "217", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.631, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "221", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350726.898, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "225", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.113, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "229", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.308, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "234", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10000111"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.452, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.477, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.5, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.52, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.525, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.544, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.573, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.628, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350727.692, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350728.227, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350729.417, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350730.06, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350730.84, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350731.455, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350732.186, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350732.793, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350733.426, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350734.492, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350735.027, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350736.072, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350736.898, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350738.153, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350739.158, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350740.142, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350743.059, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350743.586, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350741.294, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350742.207, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350743.186, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350743.856, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350744.378, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350745.391, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350744.259, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350745.121, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350745.961, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350746.651, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350745.838, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350746.335, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350747.437, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350748.018, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350747.597, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350748.408, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350748.782, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350750.047, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350748.917, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350750.428, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350751.774, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350753.649, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350752.375, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350754.055, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350756.506, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350758.775, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.598, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.677, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.015, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.256, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.454, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350755.825, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350758.246, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.583, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.661, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350759.911, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.211, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.405, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.606, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.822, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.018, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.522, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.942, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.423, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.652, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350760.869, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.065, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350761.634, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.114, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.569, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350764.205, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350764.773, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350765.635, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.27, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.658, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.184, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.778, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.059, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350762.561, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.233, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.77, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.923, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "75", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.231, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350763.695, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.11, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "79", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.305, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "83", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.563, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "87", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.834, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "92", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.005, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350764.44, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350764.926, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350765.909, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.38, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.235, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.39, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.59, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.876, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.076, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.246, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.373, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.535, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.697, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.845, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.076, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.258, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350766.747, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.517, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350767.859, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.403, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.814, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "72", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350768.968, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "76", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.153, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "80", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.407, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.543, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.707, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.84, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.99, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.142, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.337, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "84", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.673, "message_type": "inst_properties", "data": [{"inst_specifier": [{"instrument_id": "10100480", "first_item_id": "88", "term_format_id": "3115920339", "second_item_id": "0", "sequence_span": "Single", "first_sequence_id": "10410014"}], "broker_id": [{"value": "27"}], "properties": [{"aon": true, "price_tick": 0.01, "qty_tick": 1.0, "min_quantity": 1.0, "ioc": true, "fok": true}]}], "exchange": "TRAYPORT"}
+{"timestamp": 1624350769.871, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.069, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.286, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.43, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.651, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350770.929, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.121, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.287, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.415, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.583, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.731, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350771.875, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.151, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.288, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.446, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.591, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.411, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.578, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.725, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.897, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.077, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.258, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.745, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350772.89, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.034, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.174, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.454, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.617, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.775, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350773.941, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.119, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.301, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.513, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.789, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.914, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.055, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.205, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.338, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.468, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.437, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.742, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350774.882, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.014, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.173, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.306, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624350775.432, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389636.726, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389637.649, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.364, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.921, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.513, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389640.155, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389640.687, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389641.409, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389642.094, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389642.853, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389643.589, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389645.652, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.369, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.941, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389647.727, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389648.685, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389649.482, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389650.15, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389650.776, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389651.409, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389652.095, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389652.701, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.341, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.973, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389654.98, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389656.155, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389657.256, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389658.385, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389659.855, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389660.854, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.109, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.173, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.312, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.608, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.858, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.029, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.18, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.332, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.648, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.859, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.138, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.396, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.021, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.443, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.695, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.934, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.174, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.57, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.971, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.097, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.18, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.263, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.36, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.437, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.522, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.603, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.699, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.772, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.864, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.951, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.062, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.218, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.39, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.548, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.709, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.835, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.942, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.036, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.113, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.199, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.281, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.357, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.438, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.518, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.618, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.729, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.812, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.99, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.159, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.32, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.464, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.577, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.659, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389637.395, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.184, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.78, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.353, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.98, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389640.572, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389641.212, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389641.955, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389642.665, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389643.403, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389645.471, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.245, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.801, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389647.542, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389648.52, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389649.338, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389649.981, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389650.631, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389651.276, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389651.911, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389652.525, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.188, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.827, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389654.422, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389655.879, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389656.834, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389658.16, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389659.557, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389660.627, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.101, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.14, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.279, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.537, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.794, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.992, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.145, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.292, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.437, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.488, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.541, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.595, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.052, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.983, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.269, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.461, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.549, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.679, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.143, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.517, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.75, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.987, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.276, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.678, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.017, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.12, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.199, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.287, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.384, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.463, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.543, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.631, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.718, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.793, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.885, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.974, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.112, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.258, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.435, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.586, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.754, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.861, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.969, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.053, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.133, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.216, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.3, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.376, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.456, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.539, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.649, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.746, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.843, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.034, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.201, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.357, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.503, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.602, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.684, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389637.14, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.036, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.649, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.186, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.795, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389640.447, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389641.024, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389641.814, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389642.477, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389643.217, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389643.752, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389643.881, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389644.057, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389644.252, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389644.439, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389644.612, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389644.771, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389644.95, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389645.841, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.559, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389647.099, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389647.993, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389648.883, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389649.635, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389650.28, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389650.933, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389651.56, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389652.224, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389652.873, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.512, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389654.122, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389655.343, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389656.381, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389657.563, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389658.767, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389660.152, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.084, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.118, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.205, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.377, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.689, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.917, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.077, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.216, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.368, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.901, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389636.927, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389637.88, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389638.514, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.916, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.207, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.8, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.392, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.024, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389639.662, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389640.298, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389640.834, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389641.619, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389642.287, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.643, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.866, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.093, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.484, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389643.047, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389645.163, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.071, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.874, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.073, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.157, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.244, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.337, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.421, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.501, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.585, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.681, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.752, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389646.673, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389647.305, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389648.269, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.841, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.928, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.016, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.184, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.348, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.506, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.666, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.817, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.918, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.019, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.09, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.172, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389649.178, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389649.792, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389650.452, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.264, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.34, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.418, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.499, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.595, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.706, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.789, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.942, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.112, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.279, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.43, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.557, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389651.109, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389651.742, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389652.398, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.643, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.723, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.027, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389653.671, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389654.264, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389655.626, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389656.614, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389657.863, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389659.055, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389660.394, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.094, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.13, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.241, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.446, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.758, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389661.957, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.114, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.249, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389662.731, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.17, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.294, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.476, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.621, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389663.775, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.06, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.324, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389664.9, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.271, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.339, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.589, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389665.815, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.041, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.37, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389666.764, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.049, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.138, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.221, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.31, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.403, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.485, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.564, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.66, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.735, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.819, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.905, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389667.992, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.149, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.304, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.468, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.624, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.79, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.886, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389668.995, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.073, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.151, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.239, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.321, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.393, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.478, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.567, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.671, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.768, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389669.887, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.075, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.24, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.397, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.529, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.623, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}
+{"timestamp": 1624389670.704, "message_type": "inst_properties", "data": [], "exchange": "TRAYPORT"}

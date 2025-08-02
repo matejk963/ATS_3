@@ -1,0 +1,52 @@
+# ATS_3 Configuration File
+# Default configuration for the ATS_3 trading system
+
+project:
+  name: "ATS_3"
+  version: "0.1.0"
+  description: "Advanced Trading System - Refactored"
+
+environment:
+  conda_env: "ATS_3"
+  python_version: "3.9"
+  
+development:
+  log_level: "INFO"
+  debug_mode: false
+  test_mode: false
+
+# Database configuration (to be implemented)
+database:
+  type: "timescaledb"
+  host: "localhost"
+  port: 5432
+  database: "trading_data"
+  # Connection details to be configured per environment
+
+# Strategy configuration (to be implemented)
+strategy:
+  default_date_range:
+    start: "2025-03-03"
+    end: "2025-03-06"
+  
+  bias_classifier:
+    macd_line_threshold: [-0.1, 0.1]
+    macd_histogram_threshold: [-0.05, 0.05]
+
+# Backtesting configuration (to be implemented)
+backtesting:
+  parallel_workers: 4
+  memory_limit: "8GB"
+  cache_enabled: true
+
+# Analysis configuration (to be implemented)
+analysis:
+  default_metrics:
+    - "sharpe_ratio"
+    - "sortino_ratio" 
+    - "max_drawdown"
+    - "win_rate"
+  
+  visualization:
+    theme: "default"
+    figure_size: [12, 8]

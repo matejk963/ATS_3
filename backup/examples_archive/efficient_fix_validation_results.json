@@ -1,0 +1,13 @@
+{
+  "test_metadata": {
+    "timestamp": "2025-07-29 17:20:29",
+    "total_processing_time_seconds": 0.5973641872406006,
+    "test_type": "efficient_validation"
+  },
+  "results": {
+    "combinations_generation": {
+      "passed": true,
+      "count": 1000
+    },
+    "atr_fix": {
+      "passed": 
